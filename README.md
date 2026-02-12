@@ -18,3 +18,5 @@ Suppose we have three types of characters in a GameApp:
 - CastSpell
 - ShootArrow
 - SwingSword
+
+![image](https://github.com/sairarat/Strategy-Pattern/blob/master/Strategy%20Pattern.png)
